@@ -3,7 +3,11 @@
 </p>
 
 # 💫 About Me:
-Innovating at the Intersection of Art and Science -<br><br>I am currently pursuing an MA in Spanish, a BS in Computer Science, and a BA in Digital Arts at UNCW. As an interdisciplinary student, I bring a unique perspective to problem-solving. My diverse background fosters a creative approach to challenges, allowing me to think outside the box and offer innovative solutions. I am a dedicated and hardworking individual who thrives on continual learning, making me an invaluable asset to any team or project. <br>With my strong work ethic, passion for learning, and ability to inspire others, I am confident in my ability to not only excel as a team member but also to lead with empathy and vision.
+Innovating at the Intersection of Art and Science <br><be>
+🎭 Blending Art, Tech & Language  
+🚀 Pursuing an MA in Spanish, a BS in Computer Science & a BA in Digital Arts at UNCW  
+💡 Passionate about creative problem-solving & interdisciplinary innovation  
+📚 Always learning, always evolving
 
 
 ## 🌐 Socials:
