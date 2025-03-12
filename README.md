@@ -3,9 +3,8 @@
 </p>
 
 # 💫 About Me:
-Innovating at the Intersection of Art and Science <br><be>
-🎭 Blending Art, Tech & Language  
-🚀 Pursuing an MA in Spanish, a BS in Computer Science & a BA in Digital Arts at UNCW  
+🎭 Blending Art, Tech & Culture  
+🚀 Pursuing an MA in Spanish, a BS in Computer Science & a BA in Digital Arts 
 💡 Passionate about creative problem-solving & interdisciplinary innovation  
 📚 Always learning, always evolving
 
