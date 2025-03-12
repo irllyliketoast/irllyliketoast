@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/irllyliketoast/irllyliketoast/blob/main/greenhouse.gif?raw=true" width="600" height ="340">
+  <img src="https://github.com/irllyliketoast/irllyliketoast/blob/main/greenhouse.gif?raw=true" width="1500" height ="1240">
 </p>
 
 
