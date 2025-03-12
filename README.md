@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 🎭 Blending Art, Tech & Culture  
-🚀 Pursuing an MA in Spanish, a BS in Computer Science & a BA in Digital Arts 
-💡 Passionate about creative problem-solving & interdisciplinary innovation  
+🚀 Pursuing an MA in Spanish, a BS in Computer Science & a BA in Digital Arts        
+💡 Passionate about creative problem-solving & interdisciplinary innovation      
 📚 Always learning, always evolving
 
 
