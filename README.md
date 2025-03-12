@@ -2,8 +2,8 @@
   <img src="https://github.com/irllyliketoast/irllyliketoast/blob/main/greenhouse.gif?raw=true" width="1500" height ="300">
 </p>
 
-# 💫 About Me:
-🎭 Blending Art, Tech & Culture  
+# Laura’s Ledger:
+🌿 Blending Art, Tech & Culture  
 🚀 Pursuing an MA in Spanish, a BS in Computer Science & a BA in Digital Arts        
 💡 Passionate about creative problem-solving & interdisciplinary innovation      
 📚 Always learning, always evolving
