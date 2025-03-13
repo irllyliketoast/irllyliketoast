@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/irllyliketoast/irllyliketoast/blob/main/greenhouse.gif?raw=true" width="1500" height ="300">
+  <img src="https://github.com/irllyliketoast/The-Coqui/blob/82d5fa09d76c7e5ae1ad9f719b2bdf41407048f3/TheCoqui.jpg" width="1500" height ="300">
 </p>
 
 ## Laura’s Ledger:
