@@ -3,10 +3,10 @@
 </p>
 
 ## Laura’s Ledger:
-🌿 Blending Art, Tech & Culture  
-🚀 Pursuing an MA in Spanish, a BS in Computer Science & a BA in Digital Arts        
-💡 Passionate about creative problem-solving & interdisciplinary innovation      
-📚 Always learning, always evolving
+- Blending Art, Tech, and Culture  
+- MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish     
+- Passionate about creative problem-solving & interdisciplinary innovation      
+- Always learning, always evolving
 
 
 ## Digital Footprint:
