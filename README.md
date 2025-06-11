@@ -2,7 +2,7 @@
   <img src="https://github.com/irllyliketoast/irllyliketoast/blob/main/greenhouse.gif?raw=true" width="1500" height ="300">
 </p>
 
-## Laura’s Ledger:
+## My Ledger:
 - Blending Art, Tech, and Culture  
 - MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish     
 - Passionate about creative problem-solving & interdisciplinary innovation      
