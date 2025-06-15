@@ -11,7 +11,6 @@ _Where code meets culture, and curiosity fuels creation._
 ---
 
 ## Currently in Progress  
-_Filling my brainspace lately:_
 
 - **Secure Fingerprint Biometric Authentication**  
   `UNCW Research Project | Privacy-Preserving Web Prototype`  
