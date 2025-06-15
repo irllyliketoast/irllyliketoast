@@ -2,7 +2,7 @@
   <img src="https://github.com/irllyliketoast/irllyliketoast/blob/main/greenhouse.gif?raw=true" width="1500" height ="300">
 </p>
 
-![My Ledger](https://img.shields.io/badge/My%20Ledger-%F0%9F%93%BE%20Hybrid%20Identity-informational?style=for-the-badge&logoColor=white&color=purple) 
+## My Ledger
 _Where code meets culture, and curiosity fuels creation._
 
 - **Hybrid by Design:** Bridging Art, Technology, and Language to build things that move both systems *and* people.  
