@@ -2,11 +2,29 @@
   <img src="https://github.com/irllyliketoast/irllyliketoast/blob/main/greenhouse.gif?raw=true" width="1500" height ="300">
 </p>
 
-## My Ledger:
-- Blending Art, Tech, and Culture  
-- MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish     
-- Passionate about creative problem-solving & interdisciplinary innovation      
-- Always learning, always evolving
+![My Ledger](https://img.shields.io/badge/My%20Ledger-%F0%9F%93%BE%20Hybrid%20Identity-informational?style=for-the-badge&logoColor=white&color=purple) 
+_Where code meets culture, and curiosity fuels creation._
+
+- **Hybrid by Design:** Bridging Art, Technology, and Language to build things that move both systems *and* people.  
+- **Education** MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish  
+
+---
+
+## Currently in Progress  
+_Filling my brainspace lately:_
+
+- **Secure Fingerprint Biometric Authentication**  
+  `UNCW Research Project | Privacy-Preserving Web Prototype`  
+  Designing a zero-knowledge, encrypted fingerprint matcher where the raw biometric data never leaves the client. Learning a lot about cryptography, web security, and human-centered authentication.
+
+- **Interactive Weather App**  
+  `Personal Project | Learning & Styling`  
+  A playful, animated weather app with globe-spinning UI, language toggles, and Spider-Punk comic book flair. Built to challenge myself.
+  
+- **Contributing to Grails (Apache)**  
+  `Open Source | Community Docs & CLI Guides`  
+  Actively improving documentation for [Grails Framework](https://github.com/grails/grails-core), a Groovy-based web framework. Helping users transition smoothly to Grails 7 and Grails Forge Shell.
+
 
 
 ## Digital Footprint:
