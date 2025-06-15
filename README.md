@@ -5,8 +5,8 @@
 ## My Ledger
 _Where code meets culture, and curiosity fuels creation._
 
-- **Hybrid by Design:** Bridging Art, Technology, and Language to build things that move both systems *and* people.  
-- **Education** MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish  
+**Hybrid by Design-** Bridging Art, Technology, and Language to build things that move both systems *and* people.  
+**Education-** MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish  
 
 ---
 
