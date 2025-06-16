@@ -3,23 +3,22 @@
 </p>
 
 ## My Ledger
-_Where code meets culture, and curiosity fuels creation._
+_Hybrid by Design. Where code meets culture, and curiosity fuels creation._
 
-**Hybrid by Design-** Bridging Art, Technology, and Language to build things that move both systems *and* people.  
-**Education-** MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish  
+**Education:** MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish  
 
 ---
 
 ## Currently in Progress  
 
 - **Secure Fingerprint Biometric Authentication**  
-  `UNCW Research Project | Privacy-Preserving Web Prototype`  
+  `UNCW Research Project`  
 
 - **Interactive Weather App**  
-  `Personal Project | Learning & Styling`  
+  `Personal Project`  
   
 - **Contributing to Grails (Apache)**  
-  `Open Source | Community Docs & CLI Guides`  
+  `Open Source`  
 
  ---
 
