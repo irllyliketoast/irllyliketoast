@@ -3,7 +3,7 @@
 </p>
 
 ## My Ledger
-_Hybrid by Design. Where code meets culture, and curiosity fuels creation._
+_Hybrid by Design_
 
 **Education:** MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish  
 
