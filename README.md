@@ -3,9 +3,7 @@
 </p>
 
 ## My Ledger
-_Hybrid by Design_
-
-**Education:** MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish  
+_Hybrid by Design-_ MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish  
 
 ---
 
