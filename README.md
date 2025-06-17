@@ -16,8 +16,10 @@ _Hybrid by Design-_ MA in Spanish + BS in Computer Science + BA in Digital Art a
   `Personal Project`  
   
 - **Contributing to Grails (Apache)**  
-  `Open Source`  
+  `Open Source`
 
+- **Game Jam**
+  `Game Jam`
  ---
 
 ## Digital Footprint:
