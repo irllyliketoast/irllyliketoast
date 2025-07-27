@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/49/29/57/4929571ca9465e280f1fa7e9bd7772aa.gif" width="1500" height ="400">
 </p>
 
-## My Ledger
+# My Ledger
 _Hybrid by Design-_ MA in Spanish + BS in Computer Science + BA in Digital Art and Spanish  
 
 ---
@@ -11,15 +11,9 @@ _Hybrid by Design-_ MA in Spanish + BS in Computer Science + BA in Digital Art a
 
 - **Secure Fingerprint Biometric Authentication**  
   `UNCW Research Project`  
-
-- **Interactive Weather App**  
-  `Personal Project`  
   
 - **Contributing to Grails (Apache)**  
   `Open Source`
-
-- **Game Jam**  
-  `Game Jam`
 
  ---
 
