@@ -10,7 +10,10 @@ _Hybrid by Design-_ MA in Spanish + BS in Computer Science + BA in Digital Art a
 ## Currently in Progress  
 
 - **Secure Fingerprint Biometric Authentication**  
-  `UNCW Research Project`  
+  `UNCW Research Project`
+
+- **ad-hoc-time-sync**
+  `UNCW Research Project`
   
 - **Contributing to Grails (Apache)**  
   `Open Source`
